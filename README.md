@@ -1,0 +1,2 @@
+# Robust-Federated-Q-Learning-with-Almost-No-communication
+Robust Fed-Q — a federated Q-learning algorithm that stays reliable even when a small fraction of agents are adversarial. It blends model-based/model-free updates with median-of-means to ensure (i) high-probability exact convergence in the infinite-sample limit and (ii) near-optimal finite-time rates with collaborative sample-complexity gains.
