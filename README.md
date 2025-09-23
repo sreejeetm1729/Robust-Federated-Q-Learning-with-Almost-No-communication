@@ -2,7 +2,7 @@ We consider a federated reinforcement learning setting involving $M$ agents, all
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figure%202%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png" style="width:250px">
+    <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Robust%20Fed-Q%20Animated%20corruption.gif" style="width:250px">
     <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figure%202%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png" style="width:250px">
     <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figure%201%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01%20(3).png" style="width:250px">
  </td>
