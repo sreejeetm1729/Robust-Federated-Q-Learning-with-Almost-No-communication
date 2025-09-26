@@ -6,8 +6,8 @@ We consider a federated reinforcement learning setting involving $M$ agents, all
        alt="Figure 2" width="250">
   <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Figure%202%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png"
        alt="Figure 1" width="250">
-  <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Figure%202%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png"
-       alt="Figure 1" width="665">
+  <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Robust%20Fed-Q%20Animation.gif"
+       alt="Figure 1" width="670">
 </p>
 
 
